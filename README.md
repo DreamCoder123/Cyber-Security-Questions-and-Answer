@@ -12,3 +12,4 @@ Uses:
 
 It shows the time taken by the packet for each hop during the transmission. 
 When the packet is lost during the transmission, the traceroute will identify where the point of failure is.
+
