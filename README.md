@@ -20,3 +20,7 @@ Uses:
 
 It monitors the incoming and outgoing network traffic. It permits or allows only data packets that agree to the set of security rules.
 It acts as a barrier between the internal network and the incoming traffic from external sources like the Internet.
+
+
+4. What is a three-way handshake?
+It is a process that happens in a TCP/IP network when you make a connection between a local host and the server. It is a three-step process to negotiate acknowledgment and synchronization of packets before communication starts. 
