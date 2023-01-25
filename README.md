@@ -24,3 +24,9 @@ It acts as a barrier between the internal network and the incoming traffic from 
 
 4. What is a three-way handshake?
 It is a process that happens in a TCP/IP network when you make a connection between a local host and the server. It is a three-step process to negotiate acknowledgment and synchronization of packets before communication starts. 
+
+Step 1: The client makes a connection with the server with SYN.
+
+Step 2: The server responds to the client request with SYN+ACK.
+
+Step 3: The client acknowledges the server’s response with ACK, and the actual data transmission begins.
