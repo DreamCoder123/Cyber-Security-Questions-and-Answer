@@ -72,6 +72,13 @@ The server fails to complete a valid request. Example codes for this are:
 502 (bad gateway)
 511 (network authentication required)
  
+6. What is the CIA triad?
+CIA Triad is a security model to ensure IT security. CIA stands for confidentiality, integrity, and availability.
+
+Confidentiality: To protect sensitive information from unauthorized access.
+Integrity: To protect data from deletion or modification by an unintended person.
+Availability: To confirm the availability of the data whenever needed.
+
 
 Also, check out this blog the Top Cyber Security Skills!
 
