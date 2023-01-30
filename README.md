@@ -94,3 +94,17 @@ DDoS: This is done to overwhelm the target network with massive traffic, making 
 Malvertising: Malvertising refers to the injections of maleficent code to legitimate advertising networks, which redirect users to unintended websites.
 Password Attacks: As the name suggests, here, the cyber hacker cracks credentials like passwords.
 Check out our blog on Cyber Security Tips and Best Practices to prevent Cyber Security attacks!
+
+8. What is data leakage?
+Data leakage means the unauthorized transmission of data from an organization to an external recipient. The mode of transmission can be electronic, physical, web, email, mobile data, and storage devices, such as USB keys, laptops, and optical media. 
+
+Types of data leakage:
+
+Accidental leakage: The authorized entity sends data to an unauthorized entity accidentally.
+Malicious insiders: The authorized entity intentionally sends data to an unauthorized entity.
+Electronic communication: Hackers make use of hacking tools to intrude the system.
+
+
+
+To Know More..
+https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/
