@@ -115,6 +115,14 @@ TCP connect
 TCP half-open
 Stealth scanning
 
+10. Explain brute force attack and the ways to prevent it.
+A brute force attack is a hack where the attacker tries to guess the target password by trial and error. It is mostly implemented with the help of automated software used to login with credentials.
+
+Here are some ways to prevent a brute force attack:
+
+Set a lengthy password
+Set a high-complexity password
+Set a limit for login failures
 
 To Know More..
 https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/
