@@ -104,6 +104,16 @@ Accidental leakage: The authorized entity sends data to an unauthorized entity a
 Malicious insiders: The authorized entity intentionally sends data to an unauthorized entity.
 Electronic communication: Hackers make use of hacking tools to intrude the system.
 
+9. Explain port scanning.
+A port scan helps you determine the ports that are open, listening, or closed on a network. Administrators use this to test network security and the system’s firewall strength. For hackers, it is a popular reconnaissance tool to identify the weak point to break into a system.
+
+Some of the common basic port scanning techniques are:
+
+UDP
+Ping scan
+TCP connect
+TCP half-open
+Stealth scanning
 
 
 To Know More..
