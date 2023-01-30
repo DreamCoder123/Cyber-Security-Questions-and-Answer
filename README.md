@@ -124,5 +124,13 @@ Set a lengthy password
 Set a high-complexity password
 Set a limit for login failures
 
+11. Explain the difference between hashing and encryption.
+Hashing	Encryption
+A one-way function where you cannot decrypt the original message	Encrypted data can be decrypted to the original text with a proper key
+Used to verify data	Used to transmit data securely
+Used to send files, passwords, etc. and to search	Used to transfer sensitive business information
+
+
+
 To Know More..
 https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/
