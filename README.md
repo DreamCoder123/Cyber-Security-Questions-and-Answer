@@ -136,6 +136,18 @@ Identifies the vulnerabilities in a network	Identifies vulnerabilities to exploi
 Tells how susceptible the network is	Tells whether the detected vulnerability is genuine
 Conducted at regular intervals when there is a change in the system or network	Conducted annually when there are significant changes introduced into the system
 
+13. Mention the steps to set up a firewall.
+Following are the steps you have to follow to set up a firewall:
+
+Username/password: Alter the default password of a firewall device.
+Remote Administration: Always disable the Remote Administration feature.
+Port Forward: For the web server, FTP, and other applications to work properly, configure appropriate ports.
+DHCP Server: Disable the DHCP server when you install a firewall to avoid conflicts.
+Logging: Enable logs to view the firewall troubleshoots and to view logs.
+Policies: Configure strong security policies with the firewall.
+ 
+
+Want to know How to become a cyber security engineer in 2023? check this blog out!
 
 
 To Know More..
