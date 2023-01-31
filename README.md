@@ -145,7 +145,20 @@ Port Forward: For the web server, FTP, and other applications to work properly, 
 DHCP Server: Disable the DHCP server when you install a firewall to avoid conflicts.
 Logging: Enable logs to view the firewall troubleshoots and to view logs.
 Policies: Configure strong security policies with the firewall.
- 
+
+14. What is SSL encryption?
+Secure Socket Layer is a security protocol that is used for the purpose of encryption. It ensures privacy, data integrity, and authentication in the network like online transactions.
+
+
+The following are the steps for setting up an SSL encryption: 
+
+A browser connects to an SSL-secured web server.
+The browser requests the server’s public key in exchange for its own private key.
+If it is trustworthy, the browser requests to establish an encrypted connection with the web server.
+The web server sends the acknowledgement to start an SSL encrypted connection.
+SSL communication starts to take place between the browser and the web server.
+Courses you may like
+
 
 Want to know How to become a cyber security engineer in 2023? check this blog out!
 
