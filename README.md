@@ -130,6 +130,12 @@ A one-way function where you cannot decrypt the original message	Encrypted data 
 Used to verify data	Used to transmit data securely
 Used to send files, passwords, etc. and to search	Used to transfer sensitive business information
 
+12. What is the difference between vulnerability assessment (VA) and penetration testing (PT)?
+Vulnerability Assessment (VA)	Penetration Testing (PT)
+Identifies the vulnerabilities in a network	Identifies vulnerabilities to exploit them to penetrate the system
+Tells how susceptible the network is	Tells whether the detected vulnerability is genuine
+Conducted at regular intervals when there is a change in the system or network	Conducted annually when there are significant changes introduced into the system
+
 
 
 To Know More..
