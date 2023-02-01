@@ -163,5 +163,20 @@ Courses you may like
 Want to know How to become a cyber security engineer in 2023? check this blog out!
 
 
+15. What steps will you take to secure a server?
+A server that is secured uses the Secure Socket Layer (SSL) protocol to encrypt and decrypt data to protect it from unauthorized access.
+
+Below are the four steps to secure a server:
+
+Step 1: Secure the root and administrator users with a password
+
+Step 2: Create new users who will manage the system
+
+Step 3: Do not give remote access to administrator/default root accounts
+
+Step 4: Configure firewall rules for remote access
+
+
+
 To Know More..
 https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/
