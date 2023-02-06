@@ -186,6 +186,13 @@ Detects the attacks that involve hosts	Detects attacks that involve networks
 Analyzes what a particular host/application is doing	Examines the network traffic of all devices
 Discovers hackers only after the machine is breached	Discovers hackers at the time they generate unauthorized attacks
 
+17. Mention the difference between symmetric and asymmetric encryption.
+Differentiator 	Symmetric Encryption	Asymmetric Encryption
+Encryption Key	Only one key to encrypt and decrypt a message	Two different keys (public and private keys) to encrypt and decrypt the message
+Speed of Execution	Encryption is faster and simple	Encryption is slower and complicated
+Algorithms	RC4, AES, DES, and 3DES	RSA, Diffie-Hellman, and ECC
+Usage 	For the transmission of large chunks of data	For smaller transmission to establish a secure connection prior to the actual data transfer
+
 
 To Know More..
 https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/
