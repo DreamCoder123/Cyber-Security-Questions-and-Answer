@@ -179,6 +179,13 @@ Step 4: Configure firewall rules for remote access
 
 
 
+16. What is the difference between HIDS and NIDS?
+
+Host Intrusion Detection System	Network Intrusion Detection System
+Detects the attacks that involve hosts	Detects attacks that involve networks 
+Analyzes what a particular host/application is doing	Examines the network traffic of all devices
+Discovers hackers only after the machine is breached	Discovers hackers at the time they generate unauthorized attacks
+
 
 To Know More..
 https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/
